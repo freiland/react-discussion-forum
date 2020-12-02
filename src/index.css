@@ -1,0 +1,25 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 1500;
+}
+h1 {
+  /* font-family: 'Aclonica', sans-serif; */
+  text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
+}
+.hoverItem {
+  padding: 15px;
+}
+.hoverItem:hover {
+  background-color: rgb(247, 247, 247);
+  cursor: -webkit-grab; cursor: pointer;
+  padding: 15px;
+}
+.center-align{
+  text-align: center;
+}
+
+.align-right {
+  float: right;
+}
